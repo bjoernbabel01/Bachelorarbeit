@@ -15,4 +15,7 @@ Der Ordner "Unity Build" enthält den Unity Build der Anwendung, die für die Du
 
 "Unity Projekt"
 
-Der Ordner "Unity Projekt" enthält das entwickelte Unity-Projekt der Simulation.
+Der Ordner "Unity Projekt" enthält das entwickelte Unity-Projekt der Simulation. Das vollständige Unity-Projekt steht als ZIP-Datei über Git LFS zum Download zur Verfügung. Für den Zugriff auf die ZIP-Datei muss Git LFS installiert sein.
+
+Alternativ steht das Unity-Projekt über Sync'n'Share (Nextcloud) zur Verfügung.
+Link: https://nc.uni-bremen.de/index.php/s/mDjKND5K9nJsBQk
