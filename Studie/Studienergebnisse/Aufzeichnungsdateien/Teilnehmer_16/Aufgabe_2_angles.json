@@ -1,0 +1,1582 @@
+[
+  {
+    "time_since_startup": 436.6892,
+    "time_since_task_start": 150.674774,
+    "angle": 2.0
+  },
+  {
+    "time_since_startup": 436.76358,
+    "time_since_task_start": 150.749146,
+    "angle": 3.0
+  },
+  {
+    "time_since_startup": 436.840027,
+    "time_since_task_start": 150.825592,
+    "angle": 5.0
+  },
+  {
+    "time_since_startup": 436.9173,
+    "time_since_task_start": 150.902863,
+    "angle": 8.0
+  },
+  {
+    "time_since_startup": 436.984467,
+    "time_since_task_start": 150.970032,
+    "angle": 9.0
+  },
+  {
+    "time_since_startup": 437.053253,
+    "time_since_task_start": 151.038818,
+    "angle": 14.0
+  },
+  {
+    "time_since_startup": 437.125122,
+    "time_since_task_start": 151.110687,
+    "angle": 16.0
+  },
+  {
+    "time_since_startup": 437.20108,
+    "time_since_task_start": 151.186646,
+    "angle": 23.0
+  },
+  {
+    "time_since_startup": 437.2687,
+    "time_since_task_start": 151.254272,
+    "angle": 25.0
+  },
+  {
+    "time_since_startup": 437.335022,
+    "time_since_task_start": 151.320587,
+    "angle": 28.0
+  },
+  {
+    "time_since_startup": 437.401978,
+    "time_since_task_start": 151.387543,
+    "angle": 31.0
+  },
+  {
+    "time_since_startup": 437.469574,
+    "time_since_task_start": 151.455139,
+    "angle": 45.0
+  },
+  {
+    "time_since_startup": 437.592224,
+    "time_since_task_start": 151.577789,
+    "angle": 48.0
+  },
+  {
+    "time_since_startup": 437.6683,
+    "time_since_task_start": 151.65387,
+    "angle": 50.0
+  },
+  {
+    "time_since_startup": 437.770874,
+    "time_since_task_start": 151.756439,
+    "angle": 53.0
+  },
+  {
+    "time_since_startup": 437.847443,
+    "time_since_task_start": 151.833008,
+    "angle": 57.0
+  },
+  {
+    "time_since_startup": 438.2709,
+    "time_since_task_start": 152.25647,
+    "angle": 59.0
+  },
+  {
+    "time_since_startup": 438.423645,
+    "time_since_task_start": 152.40921,
+    "angle": 61.0
+  },
+  {
+    "time_since_startup": 438.500366,
+    "time_since_task_start": 152.485931,
+    "angle": 64.0
+  },
+  {
+    "time_since_startup": 438.87,
+    "time_since_task_start": 152.85556,
+    "angle": 66.0
+  },
+  {
+    "time_since_startup": 438.944275,
+    "time_since_task_start": 152.92984,
+    "angle": 69.0
+  },
+  {
+    "time_since_startup": 440.133453,
+    "time_since_task_start": 154.119019,
+    "angle": 67.0
+  },
+  {
+    "time_since_startup": 440.349365,
+    "time_since_task_start": 154.33493,
+    "angle": 66.0
+  },
+  {
+    "time_since_startup": 440.7641,
+    "time_since_task_start": 154.749664,
+    "angle": 64.0
+  },
+  {
+    "time_since_startup": 440.993225,
+    "time_since_task_start": 154.97879,
+    "angle": 63.0
+  },
+  {
+    "time_since_startup": 441.189362,
+    "time_since_task_start": 155.174927,
+    "angle": 61.0
+  },
+  {
+    "time_since_startup": 441.833618,
+    "time_since_task_start": 155.819183,
+    "angle": 63.0
+  },
+  {
+    "time_since_startup": 442.5072,
+    "time_since_task_start": 156.492767,
+    "angle": 61.0
+  },
+  {
+    "time_since_startup": 442.709259,
+    "time_since_task_start": 156.694824,
+    "angle": 63.0
+  },
+  {
+    "time_since_startup": 442.78714,
+    "time_since_task_start": 156.7727,
+    "angle": 64.0
+  },
+  {
+    "time_since_startup": 442.862976,
+    "time_since_task_start": 156.848541,
+    "angle": 66.0
+  },
+  {
+    "time_since_startup": 442.9393,
+    "time_since_task_start": 156.924866,
+    "angle": 69.0
+  },
+  {
+    "time_since_startup": 442.942535,
+    "time_since_task_start": 156.9281,
+    "angle": 70.0
+  },
+  {
+    "time_since_startup": 443.0285,
+    "time_since_task_start": 157.014069,
+    "angle": 71.0
+  },
+  {
+    "time_since_startup": 443.1074,
+    "time_since_task_start": 157.092957,
+    "angle": 74.0
+  },
+  {
+    "time_since_startup": 443.185516,
+    "time_since_task_start": 157.171082,
+    "angle": 75.0
+  },
+  {
+    "time_since_startup": 460.028564,
+    "time_since_task_start": 174.01413,
+    "angle": 72.0
+  },
+  {
+    "time_since_startup": 460.106018,
+    "time_since_task_start": 174.091583,
+    "angle": 74.0
+  },
+  {
+    "time_since_startup": 460.1835,
+    "time_since_task_start": 174.169067,
+    "angle": 75.0
+  },
+  {
+    "time_since_startup": 460.272461,
+    "time_since_task_start": 174.258026,
+    "angle": 74.0
+  },
+  {
+    "time_since_startup": 460.3482,
+    "time_since_task_start": 174.333771,
+    "angle": 69.0
+  },
+  {
+    "time_since_startup": 460.4176,
+    "time_since_task_start": 174.403168,
+    "angle": 68.0
+  },
+  {
+    "time_since_startup": 460.4856,
+    "time_since_task_start": 174.471161,
+    "angle": 67.0
+  },
+  {
+    "time_since_startup": 460.5544,
+    "time_since_task_start": 174.539978,
+    "angle": 61.0
+  },
+  {
+    "time_since_startup": 460.622131,
+    "time_since_task_start": 174.6077,
+    "angle": 40.0
+  },
+  {
+    "time_since_startup": 460.6894,
+    "time_since_task_start": 174.674957,
+    "angle": 29.0
+  },
+  {
+    "time_since_startup": 460.800751,
+    "time_since_task_start": 174.786316,
+    "angle": 27.0
+  },
+  {
+    "time_since_startup": 460.878876,
+    "time_since_task_start": 174.864441,
+    "angle": 23.0
+  },
+  {
+    "time_since_startup": 477.382965,
+    "time_since_task_start": 191.36853,
+    "angle": 3.0
+  },
+  {
+    "time_since_startup": 477.522369,
+    "time_since_task_start": 191.507935,
+    "angle": 2.0
+  },
+  {
+    "time_since_startup": 477.842133,
+    "time_since_task_start": 191.8277,
+    "angle": 3.0
+  },
+  {
+    "time_since_startup": 477.919464,
+    "time_since_task_start": 191.905029,
+    "angle": 5.0
+  },
+  {
+    "time_since_startup": 477.9946,
+    "time_since_task_start": 191.980164,
+    "angle": 6.0
+  },
+  {
+    "time_since_startup": 478.0632,
+    "time_since_task_start": 192.048767,
+    "angle": 8.0
+  },
+  {
+    "time_since_startup": 478.131744,
+    "time_since_task_start": 192.11731,
+    "angle": 10.0
+  },
+  {
+    "time_since_startup": 478.197174,
+    "time_since_task_start": 192.182739,
+    "angle": 14.0
+  },
+  {
+    "time_since_startup": 478.2721,
+    "time_since_task_start": 192.25766,
+    "angle": 16.0
+  },
+  {
+    "time_since_startup": 478.298523,
+    "time_since_task_start": 192.284088,
+    "angle": 17.0
+  },
+  {
+    "time_since_startup": 478.4113,
+    "time_since_task_start": 192.396851,
+    "angle": 18.0
+  },
+  {
+    "time_since_startup": 478.487549,
+    "time_since_task_start": 192.473114,
+    "angle": 21.0
+  },
+  {
+    "time_since_startup": 478.716766,
+    "time_since_task_start": 192.702332,
+    "angle": 23.0
+  },
+  {
+    "time_since_startup": 478.871918,
+    "time_since_task_start": 192.857483,
+    "angle": 25.0
+  },
+  {
+    "time_since_startup": 478.946045,
+    "time_since_task_start": 192.93161,
+    "angle": 29.0
+  },
+  {
+    "time_since_startup": 479.0144,
+    "time_since_task_start": 192.999969,
+    "angle": 32.0
+  },
+  {
+    "time_since_startup": 479.084,
+    "time_since_task_start": 193.06958,
+    "angle": 35.0
+  },
+  {
+    "time_since_startup": 479.161224,
+    "time_since_task_start": 193.14679,
+    "angle": 42.0
+  },
+  {
+    "time_since_startup": 479.343048,
+    "time_since_task_start": 193.328613,
+    "angle": 45.0
+  },
+  {
+    "time_since_startup": 479.419556,
+    "time_since_task_start": 193.405121,
+    "angle": 51.0
+  },
+  {
+    "time_since_startup": 479.494537,
+    "time_since_task_start": 193.4801,
+    "angle": 54.0
+  },
+  {
+    "time_since_startup": 479.572876,
+    "time_since_task_start": 193.558441,
+    "angle": 57.0
+  },
+  {
+    "time_since_startup": 479.648621,
+    "time_since_task_start": 193.634186,
+    "angle": 62.0
+  },
+  {
+    "time_since_startup": 479.739655,
+    "time_since_task_start": 193.72522,
+    "angle": 64.0
+  },
+  {
+    "time_since_startup": 479.813934,
+    "time_since_task_start": 193.7995,
+    "angle": 68.0
+  },
+  {
+    "time_since_startup": 479.890656,
+    "time_since_task_start": 193.876221,
+    "angle": 69.0
+  },
+  {
+    "time_since_startup": 480.057251,
+    "time_since_task_start": 194.042816,
+    "angle": 71.0
+  },
+  {
+    "time_since_startup": 480.245178,
+    "time_since_task_start": 194.230743,
+    "angle": 72.0
+  },
+  {
+    "time_since_startup": 480.322662,
+    "time_since_task_start": 194.308228,
+    "angle": 74.0
+  },
+  {
+    "time_since_startup": 480.555542,
+    "time_since_task_start": 194.5411,
+    "angle": 73.0
+  },
+  {
+    "time_since_startup": 480.6334,
+    "time_since_task_start": 194.618958,
+    "angle": 71.0
+  },
+  {
+    "time_since_startup": 480.700348,
+    "time_since_task_start": 194.685913,
+    "angle": 70.0
+  },
+  {
+    "time_since_startup": 480.769257,
+    "time_since_task_start": 194.754822,
+    "angle": 68.0
+  },
+  {
+    "time_since_startup": 481.385132,
+    "time_since_task_start": 195.3707,
+    "angle": 70.0
+  },
+  {
+    "time_since_startup": 481.460175,
+    "time_since_task_start": 195.44574,
+    "angle": 73.0
+  },
+  {
+    "time_since_startup": 481.557343,
+    "time_since_task_start": 195.542908,
+    "angle": 74.0
+  },
+  {
+    "time_since_startup": 481.7822,
+    "time_since_task_start": 195.767761,
+    "angle": 75.0
+  },
+  {
+    "time_since_startup": 481.8563,
+    "time_since_task_start": 195.841858,
+    "angle": 76.0
+  },
+  {
+    "time_since_startup": 481.942749,
+    "time_since_task_start": 195.928314,
+    "angle": 77.0
+  },
+  {
+    "time_since_startup": 482.0168,
+    "time_since_task_start": 196.00238,
+    "angle": 78.0
+  },
+  {
+    "time_since_startup": 482.175476,
+    "time_since_task_start": 196.161041,
+    "angle": 79.0
+  },
+  {
+    "time_since_startup": 482.2525,
+    "time_since_task_start": 196.238068,
+    "angle": 80.0
+  },
+  {
+    "time_since_startup": 482.327972,
+    "time_since_task_start": 196.313538,
+    "angle": 81.0
+  },
+  {
+    "time_since_startup": 483.634033,
+    "time_since_task_start": 197.6196,
+    "angle": 80.0
+  },
+  {
+    "time_since_startup": 483.891541,
+    "time_since_task_start": 197.8771,
+    "angle": 79.0
+  },
+  {
+    "time_since_startup": 484.03125,
+    "time_since_task_start": 198.016815,
+    "angle": 78.0
+  },
+  {
+    "time_since_startup": 484.4951,
+    "time_since_task_start": 198.480652,
+    "angle": 79.0
+  },
+  {
+    "time_since_startup": 484.574341,
+    "time_since_task_start": 198.5599,
+    "angle": 75.0
+  },
+  {
+    "time_since_startup": 484.654724,
+    "time_since_task_start": 198.640289,
+    "angle": 72.0
+  },
+  {
+    "time_since_startup": 484.731018,
+    "time_since_task_start": 198.716583,
+    "angle": 69.0
+  },
+  {
+    "time_since_startup": 484.7987,
+    "time_since_task_start": 198.784271,
+    "angle": 68.0
+  },
+  {
+    "time_since_startup": 484.865417,
+    "time_since_task_start": 198.850983,
+    "angle": 64.0
+  },
+  {
+    "time_since_startup": 484.939667,
+    "time_since_task_start": 198.925232,
+    "angle": 62.0
+  },
+  {
+    "time_since_startup": 485.015869,
+    "time_since_task_start": 199.001434,
+    "angle": 57.0
+  },
+  {
+    "time_since_startup": 485.0828,
+    "time_since_task_start": 199.068359,
+    "angle": 54.0
+  },
+  {
+    "time_since_startup": 485.151367,
+    "time_since_task_start": 199.136932,
+    "angle": 51.0
+  },
+  {
+    "time_since_startup": 485.2936,
+    "time_since_task_start": 199.279175,
+    "angle": 48.0
+  },
+  {
+    "time_since_startup": 485.592743,
+    "time_since_task_start": 199.578308,
+    "angle": 45.0
+  },
+  {
+    "time_since_startup": 485.6701,
+    "time_since_task_start": 199.65567,
+    "angle": 39.0
+  },
+  {
+    "time_since_startup": 496.6145,
+    "time_since_task_start": 210.600067,
+    "angle": 0.0
+  },
+  {
+    "time_since_startup": 496.758545,
+    "time_since_task_start": 210.74411,
+    "angle": 90.0
+  },
+  {
+    "time_since_startup": 497.86322,
+    "time_since_task_start": 211.848785,
+    "angle": 0.0
+  },
+  {
+    "time_since_startup": 497.9395,
+    "time_since_task_start": 211.925079,
+    "angle": 18.0
+  },
+  {
+    "time_since_startup": 498.016083,
+    "time_since_task_start": 212.001648,
+    "angle": 22.0
+  },
+  {
+    "time_since_startup": 498.391174,
+    "time_since_task_start": 212.37674,
+    "angle": 24.0
+  },
+  {
+    "time_since_startup": 498.4584,
+    "time_since_task_start": 212.44397,
+    "angle": 26.0
+  },
+  {
+    "time_since_startup": 498.526,
+    "time_since_task_start": 212.511566,
+    "angle": 52.0
+  },
+  {
+    "time_since_startup": 498.594421,
+    "time_since_task_start": 212.579987,
+    "angle": 55.0
+  },
+  {
+    "time_since_startup": 498.662323,
+    "time_since_task_start": 212.647888,
+    "angle": 62.0
+  },
+  {
+    "time_since_startup": 498.7294,
+    "time_since_task_start": 212.714966,
+    "angle": 68.0
+  },
+  {
+    "time_since_startup": 498.8009,
+    "time_since_task_start": 212.786469,
+    "angle": 70.0
+  },
+  {
+    "time_since_startup": 498.878082,
+    "time_since_task_start": 212.863647,
+    "angle": 72.0
+  },
+  {
+    "time_since_startup": 499.046173,
+    "time_since_task_start": 213.031738,
+    "angle": 73.0
+  },
+  {
+    "time_since_startup": 499.120941,
+    "time_since_task_start": 213.1065,
+    "angle": 75.0
+  },
+  {
+    "time_since_startup": 499.307648,
+    "time_since_task_start": 213.293213,
+    "angle": 76.0
+  },
+  {
+    "time_since_startup": 499.468933,
+    "time_since_task_start": 213.4545,
+    "angle": 77.0
+  },
+  {
+    "time_since_startup": 499.648254,
+    "time_since_task_start": 213.63382,
+    "angle": 78.0
+  },
+  {
+    "time_since_startup": 499.773254,
+    "time_since_task_start": 213.75882,
+    "angle": 79.0
+  },
+  {
+    "time_since_startup": 499.858063,
+    "time_since_task_start": 213.843628,
+    "angle": 80.0
+  },
+  {
+    "time_since_startup": 500.0384,
+    "time_since_task_start": 214.023956,
+    "angle": 81.0
+  },
+  {
+    "time_since_startup": 500.4684,
+    "time_since_task_start": 214.453979,
+    "angle": 80.0
+  },
+  {
+    "time_since_startup": 500.544922,
+    "time_since_task_start": 214.530487,
+    "angle": 76.0
+  },
+  {
+    "time_since_startup": 500.6137,
+    "time_since_task_start": 214.599274,
+    "angle": 74.0
+  },
+  {
+    "time_since_startup": 500.6805,
+    "time_since_task_start": 214.666077,
+    "angle": 69.0
+  },
+  {
+    "time_since_startup": 500.750244,
+    "time_since_task_start": 214.735809,
+    "angle": 66.0
+  },
+  {
+    "time_since_startup": 500.819641,
+    "time_since_task_start": 214.8052,
+    "angle": 57.0
+  },
+  {
+    "time_since_startup": 500.886932,
+    "time_since_task_start": 214.8725,
+    "angle": 54.0
+  },
+  {
+    "time_since_startup": 500.9606,
+    "time_since_task_start": 214.946167,
+    "angle": 42.0
+  },
+  {
+    "time_since_startup": 501.038025,
+    "time_since_task_start": 215.02359,
+    "angle": 39.0
+  },
+  {
+    "time_since_startup": 501.148315,
+    "time_since_task_start": 215.133881,
+    "angle": 36.0
+  },
+  {
+    "time_since_startup": 501.224426,
+    "time_since_task_start": 215.209991,
+    "angle": 33.0
+  },
+  {
+    "time_since_startup": 501.310242,
+    "time_since_task_start": 215.2958,
+    "angle": 30.0
+  },
+  {
+    "time_since_startup": 501.385071,
+    "time_since_task_start": 215.370636,
+    "angle": 27.0
+  },
+  {
+    "time_since_startup": 501.460754,
+    "time_since_task_start": 215.44632,
+    "angle": 25.0
+  },
+  {
+    "time_since_startup": 501.578674,
+    "time_since_task_start": 215.56424,
+    "angle": 23.0
+  },
+  {
+    "time_since_startup": 501.6553,
+    "time_since_task_start": 215.640869,
+    "angle": 21.0
+  },
+  {
+    "time_since_startup": 501.801422,
+    "time_since_task_start": 215.786987,
+    "angle": 20.0
+  },
+  {
+    "time_since_startup": 501.8772,
+    "time_since_task_start": 215.862762,
+    "angle": 16.0
+  },
+  {
+    "time_since_startup": 501.945068,
+    "time_since_task_start": 215.930634,
+    "angle": 15.0
+  },
+  {
+    "time_since_startup": 502.012482,
+    "time_since_task_start": 215.998047,
+    "angle": 13.0
+  },
+  {
+    "time_since_startup": 502.4682,
+    "time_since_task_start": 216.453766,
+    "angle": 14.0
+  },
+  {
+    "time_since_startup": 502.544128,
+    "time_since_task_start": 216.5297,
+    "angle": 20.0
+  },
+  {
+    "time_since_startup": 502.620239,
+    "time_since_task_start": 216.6058,
+    "angle": 26.0
+  },
+  {
+    "time_since_startup": 521.5723,
+    "time_since_task_start": 235.557892,
+    "angle": 11.0
+  },
+  {
+    "time_since_startup": 521.9689,
+    "time_since_task_start": 235.954437,
+    "angle": 12.0
+  },
+  {
+    "time_since_startup": 522.0453,
+    "time_since_task_start": 236.030853,
+    "angle": 33.0
+  },
+  {
+    "time_since_startup": 522.1131,
+    "time_since_task_start": 236.098663,
+    "angle": 39.0
+  },
+  {
+    "time_since_startup": 522.1803,
+    "time_since_task_start": 236.165863,
+    "angle": 67.0
+  },
+  {
+    "time_since_startup": 522.2494,
+    "time_since_task_start": 236.234955,
+    "angle": 70.0
+  },
+  {
+    "time_since_startup": 522.3169,
+    "time_since_task_start": 236.30246,
+    "angle": 73.0
+  },
+  {
+    "time_since_startup": 522.384155,
+    "time_since_task_start": 236.36972,
+    "angle": 74.0
+  },
+  {
+    "time_since_startup": 522.4611,
+    "time_since_task_start": 236.446686,
+    "angle": 75.0
+  },
+  {
+    "time_since_startup": 522.538269,
+    "time_since_task_start": 236.523834,
+    "angle": 76.0
+  },
+  {
+    "time_since_startup": 523.1423,
+    "time_since_task_start": 237.127838,
+    "angle": 75.0
+  },
+  {
+    "time_since_startup": 523.21814,
+    "time_since_task_start": 237.2037,
+    "angle": 72.0
+  },
+  {
+    "time_since_startup": 523.2874,
+    "time_since_task_start": 237.27298,
+    "angle": 70.0
+  },
+  {
+    "time_since_startup": 523.355164,
+    "time_since_task_start": 237.340729,
+    "angle": 62.0
+  },
+  {
+    "time_since_startup": 523.423462,
+    "time_since_task_start": 237.409027,
+    "angle": 53.0
+  },
+  {
+    "time_since_startup": 533.962036,
+    "time_since_task_start": 247.9476,
+    "angle": 87.0
+  },
+  {
+    "time_since_startup": 533.974365,
+    "time_since_task_start": 247.95993,
+    "angle": 86.0
+  },
+  {
+    "time_since_startup": 534.047668,
+    "time_since_task_start": 248.033234,
+    "angle": 88.0
+  },
+  {
+    "time_since_startup": 534.1214,
+    "time_since_task_start": 248.106964,
+    "angle": 0.0
+  },
+  {
+    "time_since_startup": 534.504,
+    "time_since_task_start": 248.4896,
+    "angle": 90.0
+  },
+  {
+    "time_since_startup": 534.587646,
+    "time_since_task_start": 248.573212,
+    "angle": 81.0
+  },
+  {
+    "time_since_startup": 534.663757,
+    "time_since_task_start": 248.649323,
+    "angle": 86.0
+  },
+  {
+    "time_since_startup": 534.8234,
+    "time_since_task_start": 248.80899,
+    "angle": 87.0
+  },
+  {
+    "time_since_startup": 535.0128,
+    "time_since_task_start": 248.998383,
+    "angle": 83.0
+  },
+  {
+    "time_since_startup": 535.087,
+    "time_since_task_start": 249.07254,
+    "angle": 66.0
+  },
+  {
+    "time_since_startup": 535.1633,
+    "time_since_task_start": 249.1489,
+    "angle": 59.0
+  },
+  {
+    "time_since_startup": 535.2408,
+    "time_since_task_start": 249.226349,
+    "angle": 55.0
+  },
+  {
+    "time_since_startup": 535.316162,
+    "time_since_task_start": 249.301727,
+    "angle": 51.0
+  },
+  {
+    "time_since_startup": 535.3925,
+    "time_since_task_start": 249.378082,
+    "angle": 45.0
+  },
+  {
+    "time_since_startup": 535.490662,
+    "time_since_task_start": 249.476227,
+    "angle": 42.0
+  },
+  {
+    "time_since_startup": 535.579956,
+    "time_since_task_start": 249.565521,
+    "angle": 40.0
+  },
+  {
+    "time_since_startup": 535.6576,
+    "time_since_task_start": 249.643158,
+    "angle": 37.0
+  },
+  {
+    "time_since_startup": 536.0107,
+    "time_since_task_start": 249.996246,
+    "angle": 35.0
+  },
+  {
+    "time_since_startup": 536.087769,
+    "time_since_task_start": 250.073334,
+    "angle": 33.0
+  },
+  {
+    "time_since_startup": 536.1635,
+    "time_since_task_start": 250.149078,
+    "angle": 32.0
+  },
+  {
+    "time_since_startup": 536.3247,
+    "time_since_task_start": 250.310272,
+    "angle": 30.0
+  },
+  {
+    "time_since_startup": 536.476868,
+    "time_since_task_start": 250.462433,
+    "angle": 28.0
+  },
+  {
+    "time_since_startup": 536.5541,
+    "time_since_task_start": 250.539642,
+    "angle": 26.0
+  },
+  {
+    "time_since_startup": 536.5571,
+    "time_since_task_start": 250.5427,
+    "angle": 25.0
+  },
+  {
+    "time_since_startup": 536.6658,
+    "time_since_task_start": 250.651337,
+    "angle": 23.0
+  },
+  {
+    "time_since_startup": 536.743164,
+    "time_since_task_start": 250.728729,
+    "angle": 21.0
+  },
+  {
+    "time_since_startup": 536.8516,
+    "time_since_task_start": 250.837189,
+    "angle": 20.0
+  },
+  {
+    "time_since_startup": 536.9277,
+    "time_since_task_start": 250.913239,
+    "angle": 19.0
+  },
+  {
+    "time_since_startup": 536.930847,
+    "time_since_task_start": 250.916412,
+    "angle": 18.0
+  },
+  {
+    "time_since_startup": 537.2731,
+    "time_since_task_start": 251.258636,
+    "angle": 19.0
+  },
+  {
+    "time_since_startup": 537.420532,
+    "time_since_task_start": 251.4061,
+    "angle": 20.0
+  },
+  {
+    "time_since_startup": 537.432739,
+    "time_since_task_start": 251.4183,
+    "angle": 21.0
+  },
+  {
+    "time_since_startup": 537.5125,
+    "time_since_task_start": 251.498077,
+    "angle": 22.0
+  },
+  {
+    "time_since_startup": 537.5799,
+    "time_since_task_start": 251.56546,
+    "angle": 23.0
+  },
+  {
+    "time_since_startup": 537.6472,
+    "time_since_task_start": 251.632782,
+    "angle": 25.0
+  },
+  {
+    "time_since_startup": 537.728,
+    "time_since_task_start": 251.7136,
+    "angle": 26.0
+  },
+  {
+    "time_since_startup": 537.802368,
+    "time_since_task_start": 251.787933,
+    "angle": 29.0
+  },
+  {
+    "time_since_startup": 537.878845,
+    "time_since_task_start": 251.86441,
+    "angle": 31.0
+  },
+  {
+    "time_since_startup": 537.8911,
+    "time_since_task_start": 251.876678,
+    "angle": 32.0
+  },
+  {
+    "time_since_startup": 537.994141,
+    "time_since_task_start": 251.9797,
+    "angle": 34.0
+  },
+  {
+    "time_since_startup": 538.2121,
+    "time_since_task_start": 252.197662,
+    "angle": 36.0
+  },
+  {
+    "time_since_startup": 541.5597,
+    "time_since_task_start": 255.545258,
+    "angle": 38.0
+  },
+  {
+    "time_since_startup": 541.7636,
+    "time_since_task_start": 255.749176,
+    "angle": 41.0
+  },
+  {
+    "time_since_startup": 542.289063,
+    "time_since_task_start": 256.274628,
+    "angle": 43.0
+  },
+  {
+    "time_since_startup": 542.396057,
+    "time_since_task_start": 256.381622,
+    "angle": 45.0
+  },
+  {
+    "time_since_startup": 542.469849,
+    "time_since_task_start": 256.4554,
+    "angle": 47.0
+  },
+  {
+    "time_since_startup": 543.295654,
+    "time_since_task_start": 257.281219,
+    "angle": 49.0
+  },
+  {
+    "time_since_startup": 543.372131,
+    "time_since_task_start": 257.3577,
+    "angle": 52.0
+  },
+  {
+    "time_since_startup": 543.664734,
+    "time_since_task_start": 257.6503,
+    "angle": 54.0
+  },
+  {
+    "time_since_startup": 543.8654,
+    "time_since_task_start": 257.850983,
+    "angle": 56.0
+  },
+  {
+    "time_since_startup": 544.4145,
+    "time_since_task_start": 258.400055,
+    "angle": 54.0
+  },
+  {
+    "time_since_startup": 544.4903,
+    "time_since_task_start": 258.475861,
+    "angle": 52.0
+  },
+  {
+    "time_since_startup": 544.566833,
+    "time_since_task_start": 258.5524,
+    "angle": 50.0
+  },
+  {
+    "time_since_startup": 586.3045,
+    "time_since_task_start": 300.29007,
+    "angle": 69.0
+  },
+  {
+    "time_since_startup": 586.3725,
+    "time_since_task_start": 300.358063,
+    "angle": 68.0
+  },
+  {
+    "time_since_startup": 586.8069,
+    "time_since_task_start": 300.79245,
+    "angle": 69.0
+  },
+  {
+    "time_since_startup": 586.8812,
+    "time_since_task_start": 300.8668,
+    "angle": 72.0
+  },
+  {
+    "time_since_startup": 586.957153,
+    "time_since_task_start": 300.942719,
+    "angle": 73.0
+  },
+  {
+    "time_since_startup": 587.035156,
+    "time_since_task_start": 301.020721,
+    "angle": 74.0
+  },
+  {
+    "time_since_startup": 587.2265,
+    "time_since_task_start": 301.212067,
+    "angle": 73.0
+  },
+  {
+    "time_since_startup": 587.339233,
+    "time_since_task_start": 301.3248,
+    "angle": 72.0
+  },
+  {
+    "time_since_startup": 587.416565,
+    "time_since_task_start": 301.40213,
+    "angle": 65.0
+  },
+  {
+    "time_since_startup": 587.4839,
+    "time_since_task_start": 301.469452,
+    "angle": 63.0
+  },
+  {
+    "time_since_startup": 587.554,
+    "time_since_task_start": 301.539581,
+    "angle": 61.0
+  },
+  {
+    "time_since_startup": 587.6222,
+    "time_since_task_start": 301.607758,
+    "angle": 59.0
+  },
+  {
+    "time_since_startup": 587.6891,
+    "time_since_task_start": 301.674652,
+    "angle": 52.0
+  },
+  {
+    "time_since_startup": 587.7582,
+    "time_since_task_start": 301.743744,
+    "angle": 47.0
+  },
+  {
+    "time_since_startup": 587.834167,
+    "time_since_task_start": 301.819733,
+    "angle": 43.0
+  },
+  {
+    "time_since_startup": 587.909363,
+    "time_since_task_start": 301.894928,
+    "angle": 41.0
+  },
+  {
+    "time_since_startup": 588.24884,
+    "time_since_task_start": 302.2344,
+    "angle": 38.0
+  },
+  {
+    "time_since_startup": 588.3268,
+    "time_since_task_start": 302.312347,
+    "angle": 36.0
+  },
+  {
+    "time_since_startup": 588.980469,
+    "time_since_task_start": 302.966034,
+    "angle": 38.0
+  },
+  {
+    "time_since_startup": 589.0545,
+    "time_since_task_start": 303.04007,
+    "angle": 41.0
+  },
+  {
+    "time_since_startup": 589.7217,
+    "time_since_task_start": 303.707245,
+    "angle": 43.0
+  },
+  {
+    "time_since_startup": 590.1168,
+    "time_since_task_start": 304.1024,
+    "angle": 45.0
+  },
+  {
+    "time_since_startup": 590.194,
+    "time_since_task_start": 304.179535,
+    "angle": 47.0
+  },
+  {
+    "time_since_startup": 590.707642,
+    "time_since_task_start": 304.6932,
+    "angle": 49.0
+  },
+  {
+    "time_since_startup": 590.8531,
+    "time_since_task_start": 304.838654,
+    "angle": 51.0
+  },
+  {
+    "time_since_startup": 590.987061,
+    "time_since_task_start": 304.972626,
+    "angle": 53.0
+  },
+  {
+    "time_since_startup": 591.061462,
+    "time_since_task_start": 305.047028,
+    "angle": 55.0
+  },
+  {
+    "time_since_startup": 591.223267,
+    "time_since_task_start": 305.208832,
+    "angle": 56.0
+  },
+  {
+    "time_since_startup": 591.299438,
+    "time_since_task_start": 305.285,
+    "angle": 60.0
+  },
+  {
+    "time_since_startup": 591.435,
+    "time_since_task_start": 305.420563,
+    "angle": 61.0
+  },
+  {
+    "time_since_startup": 591.9228,
+    "time_since_task_start": 305.908356,
+    "angle": 63.0
+  },
+  {
+    "time_since_startup": 592.1451,
+    "time_since_task_start": 306.130646,
+    "angle": 64.0
+  },
+  {
+    "time_since_startup": 592.763855,
+    "time_since_task_start": 306.74942,
+    "angle": 63.0
+  },
+  {
+    "time_since_startup": 592.9094,
+    "time_since_task_start": 306.895,
+    "angle": 61.0
+  },
+  {
+    "time_since_startup": 592.9853,
+    "time_since_task_start": 306.970856,
+    "angle": 60.0
+  },
+  {
+    "time_since_startup": 593.076233,
+    "time_since_task_start": 307.0618,
+    "angle": 58.0
+  },
+  {
+    "time_since_startup": 593.1532,
+    "time_since_task_start": 307.138763,
+    "angle": 56.0
+  },
+  {
+    "time_since_startup": 593.2909,
+    "time_since_task_start": 307.276459,
+    "angle": 55.0
+  },
+  {
+    "time_since_startup": 593.721252,
+    "time_since_task_start": 307.706818,
+    "angle": 53.0
+  },
+  {
+    "time_since_startup": 593.797668,
+    "time_since_task_start": 307.783234,
+    "angle": 51.0
+  },
+  {
+    "time_since_startup": 593.874,
+    "time_since_task_start": 307.8596,
+    "angle": 49.0
+  },
+  {
+    "time_since_startup": 593.9513,
+    "time_since_task_start": 307.936859,
+    "angle": 47.0
+  },
+  {
+    "time_since_startup": 594.0184,
+    "time_since_task_start": 308.003937,
+    "angle": 45.0
+  },
+  {
+    "time_since_startup": 594.0856,
+    "time_since_task_start": 308.071136,
+    "angle": 43.0
+  },
+  {
+    "time_since_startup": 594.159851,
+    "time_since_task_start": 308.145416,
+    "angle": 41.0
+  },
+  {
+    "time_since_startup": 594.7704,
+    "time_since_task_start": 308.755951,
+    "angle": 43.0
+  },
+  {
+    "time_since_startup": 594.9034,
+    "time_since_task_start": 308.888947,
+    "angle": 45.0
+  },
+  {
+    "time_since_startup": 594.980652,
+    "time_since_task_start": 308.966217,
+    "angle": 47.0
+  },
+  {
+    "time_since_startup": 607.431,
+    "time_since_task_start": 321.4166,
+    "angle": 16.0
+  },
+  {
+    "time_since_startup": 607.8384,
+    "time_since_task_start": 321.823944,
+    "angle": 17.0
+  },
+  {
+    "time_since_startup": 607.918152,
+    "time_since_task_start": 321.903717,
+    "angle": 18.0
+  },
+  {
+    "time_since_startup": 607.994141,
+    "time_since_task_start": 321.9797,
+    "angle": 24.0
+  },
+  {
+    "time_since_startup": 608.076233,
+    "time_since_task_start": 322.0618,
+    "angle": 27.0
+  },
+  {
+    "time_since_startup": 608.1532,
+    "time_since_task_start": 322.138763,
+    "angle": 34.0
+  },
+  {
+    "time_since_startup": 608.5209,
+    "time_since_task_start": 322.506439,
+    "angle": 37.0
+  },
+  {
+    "time_since_startup": 608.597351,
+    "time_since_task_start": 322.582916,
+    "angle": 41.0
+  },
+  {
+    "time_since_startup": 608.770447,
+    "time_since_task_start": 322.756,
+    "angle": 45.0
+  },
+  {
+    "time_since_startup": 609.0084,
+    "time_since_task_start": 322.994,
+    "angle": 49.0
+  },
+  {
+    "time_since_startup": 609.6877,
+    "time_since_task_start": 323.673248,
+    "angle": 53.0
+  },
+  {
+    "time_since_startup": 610.2921,
+    "time_since_task_start": 324.277679,
+    "angle": 56.0
+  },
+  {
+    "time_since_startup": 610.369,
+    "time_since_task_start": 324.354584,
+    "angle": 59.0
+  },
+  {
+    "time_since_startup": 610.9033,
+    "time_since_task_start": 324.8889,
+    "angle": 55.0
+  },
+  {
+    "time_since_startup": 611.3331,
+    "time_since_task_start": 325.3187,
+    "angle": 52.0
+  },
+  {
+    "time_since_startup": 611.9734,
+    "time_since_task_start": 325.958954,
+    "angle": 48.0
+  },
+  {
+    "time_since_startup": 612.152954,
+    "time_since_task_start": 326.138519,
+    "angle": 45.0
+  },
+  {
+    "time_since_startup": 612.229248,
+    "time_since_task_start": 326.2148,
+    "angle": 42.0
+  },
+  {
+    "time_since_startup": 612.6262,
+    "time_since_task_start": 326.6118,
+    "angle": 38.0
+  },
+  {
+    "time_since_startup": 612.827332,
+    "time_since_task_start": 326.8129,
+    "angle": 35.0
+  },
+  {
+    "time_since_startup": 612.902954,
+    "time_since_task_start": 326.888519,
+    "angle": 32.0
+  },
+  {
+    "time_since_startup": 613.1266,
+    "time_since_task_start": 327.112152,
+    "angle": 29.0
+  },
+  {
+    "time_since_startup": 652.563538,
+    "time_since_task_start": 366.5491,
+    "angle": 90.0
+  },
+  {
+    "time_since_startup": 653.2804,
+    "time_since_task_start": 367.265961,
+    "angle": 89.0
+  },
+  {
+    "time_since_startup": 653.2834,
+    "time_since_task_start": 367.268951,
+    "angle": 88.0
+  },
+  {
+    "time_since_startup": 653.3557,
+    "time_since_task_start": 367.341278,
+    "angle": 86.0
+  },
+  {
+    "time_since_startup": 653.4318,
+    "time_since_task_start": 367.4174,
+    "angle": 85.0
+  },
+  {
+    "time_since_startup": 653.5088,
+    "time_since_task_start": 367.494354,
+    "angle": 82.0
+  },
+  {
+    "time_since_startup": 653.591858,
+    "time_since_task_start": 367.577423,
+    "angle": 81.0
+  },
+  {
+    "time_since_startup": 653.6683,
+    "time_since_task_start": 367.653839,
+    "angle": 79.0
+  },
+  {
+    "time_since_startup": 653.7461,
+    "time_since_task_start": 367.731659,
+    "angle": 70.0
+  },
+  {
+    "time_since_startup": 653.81366,
+    "time_since_task_start": 367.799225,
+    "angle": 68.0
+  },
+  {
+    "time_since_startup": 653.880737,
+    "time_since_task_start": 367.8663,
+    "angle": 43.0
+  },
+  {
+    "time_since_startup": 653.9514,
+    "time_since_task_start": 367.936981,
+    "angle": 34.0
+  },
+  {
+    "time_since_startup": 654.0196,
+    "time_since_task_start": 368.005157,
+    "angle": 24.0
+  },
+  {
+    "time_since_startup": 654.0867,
+    "time_since_task_start": 368.072235,
+    "angle": 18.0
+  },
+  {
+    "time_since_startup": 654.1542,
+    "time_since_task_start": 368.13974,
+    "angle": 17.0
+  },
+  {
+    "time_since_startup": 654.482361,
+    "time_since_task_start": 368.467926,
+    "angle": 18.0
+  },
+  {
+    "time_since_startup": 654.6337,
+    "time_since_task_start": 368.6193,
+    "angle": 17.0
+  },
+  {
+    "time_since_startup": 654.700867,
+    "time_since_task_start": 368.686432,
+    "angle": 18.0
+  },
+  {
+    "time_since_startup": 654.7041,
+    "time_since_task_start": 368.689667,
+    "angle": 19.0
+  },
+  {
+    "time_since_startup": 654.7742,
+    "time_since_task_start": 368.759735,
+    "angle": 20.0
+  },
+  {
+    "time_since_startup": 654.8059,
+    "time_since_task_start": 368.791473,
+    "angle": 21.0
+  },
+  {
+    "time_since_startup": 654.8975,
+    "time_since_task_start": 368.8831,
+    "angle": 23.0
+  },
+  {
+    "time_since_startup": 654.974,
+    "time_since_task_start": 368.959564,
+    "angle": 24.0
+  },
+  {
+    "time_since_startup": 655.0995,
+    "time_since_task_start": 369.085052,
+    "angle": 26.0
+  },
+  {
+    "time_since_startup": 655.1771,
+    "time_since_task_start": 369.1627,
+    "angle": 27.0
+  },
+  {
+    "time_since_startup": 655.258667,
+    "time_since_task_start": 369.244232,
+    "angle": 29.0
+  },
+  {
+    "time_since_startup": 655.3356,
+    "time_since_task_start": 369.321136,
+    "angle": 30.0
+  }
+]

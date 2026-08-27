@@ -1,0 +1,3392 @@
+[
+  {
+    "time_since_startup": 898.1351,
+    "time_since_task_start": 5.907593,
+    "date": "day: 15 month: 5 2025",
+    "day_of_year": "135"
+  },
+  {
+    "time_since_startup": 898.235046,
+    "time_since_task_start": 6.00756836,
+    "date": "day: 15 month: 5 2025",
+    "day_of_year": "135"
+  },
+  {
+    "time_since_startup": 898.3131,
+    "time_since_task_start": 6.08563232,
+    "date": "day: 15 month: 5 2025",
+    "day_of_year": "135"
+  },
+  {
+    "time_since_startup": 898.3913,
+    "time_since_task_start": 6.16381836,
+    "date": "day: 15 month: 5 2025",
+    "day_of_year": "135"
+  },
+  {
+    "time_since_startup": 898.4703,
+    "time_since_task_start": 6.242798,
+    "date": "day: 15 month: 5 2025",
+    "day_of_year": "135"
+  },
+  {
+    "time_since_startup": 898.5677,
+    "time_since_task_start": 6.34021,
+    "date": "day: 15 month: 5 2025",
+    "day_of_year": "135"
+  },
+  {
+    "time_since_startup": 899.052063,
+    "time_since_task_start": 6.824585,
+    "date": "day: 15 month: 5 2025",
+    "day_of_year": "135"
+  },
+  {
+    "time_since_startup": 899.2227,
+    "time_since_task_start": 6.99523926,
+    "date": "day: 15 month: 5 2025",
+    "day_of_year": "135"
+  },
+  {
+    "time_since_startup": 899.4697,
+    "time_since_task_start": 7.24224854,
+    "date": "day: 15 month: 5 2025",
+    "day_of_year": "135"
+  },
+  {
+    "time_since_startup": 899.952,
+    "time_since_task_start": 7.72454834,
+    "date": "day: 15 month: 5 2025",
+    "day_of_year": "135"
+  },
+  {
+    "time_since_startup": 900.0528,
+    "time_since_task_start": 7.82531738,
+    "date": "day: 16 month: 5 2025",
+    "day_of_year": "136"
+  },
+  {
+    "time_since_startup": 900.1309,
+    "time_since_task_start": 7.90344238,
+    "date": "day: 17 month: 5 2025",
+    "day_of_year": "137"
+  },
+  {
+    "time_since_startup": 900.2095,
+    "time_since_task_start": 7.98199463,
+    "date": "day: 17 month: 5 2025",
+    "day_of_year": "137"
+  },
+  {
+    "time_since_startup": 900.2875,
+    "time_since_task_start": 8.059998,
+    "date": "day: 16 month: 5 2025",
+    "day_of_year": "136"
+  },
+  {
+    "time_since_startup": 900.365662,
+    "time_since_task_start": 8.138184,
+    "date": "day: 9 month: 5 2025",
+    "day_of_year": "129"
+  },
+  {
+    "time_since_startup": 900.444153,
+    "time_since_task_start": 8.216675,
+    "date": "day: 28 month: 4 2025",
+    "day_of_year": "118"
+  },
+  {
+    "time_since_startup": 900.522766,
+    "time_since_task_start": 8.295288,
+    "date": "day: 20 month: 4 2025",
+    "day_of_year": "110"
+  },
+  {
+    "time_since_startup": 900.6011,
+    "time_since_task_start": 8.373596,
+    "date": "day: 18 month: 4 2025",
+    "day_of_year": "108"
+  },
+  {
+    "time_since_startup": 900.6795,
+    "time_since_task_start": 8.452026,
+    "date": "day: 15 month: 4 2025",
+    "day_of_year": "105"
+  },
+  {
+    "time_since_startup": 900.7576,
+    "time_since_task_start": 8.530151,
+    "date": "day: 13 month: 4 2025",
+    "day_of_year": "103"
+  },
+  {
+    "time_since_startup": 900.8373,
+    "time_since_task_start": 8.609802,
+    "date": "day: 11 month: 4 2025",
+    "day_of_year": "101"
+  },
+  {
+    "time_since_startup": 900.915466,
+    "time_since_task_start": 8.687988,
+    "date": "day: 8 month: 4 2025",
+    "day_of_year": "98"
+  },
+  {
+    "time_since_startup": 900.995,
+    "time_since_task_start": 8.767517,
+    "date": "day: 7 month: 4 2025",
+    "day_of_year": "97"
+  },
+  {
+    "time_since_startup": 901.0731,
+    "time_since_task_start": 8.845642,
+    "date": "day: 4 month: 4 2025",
+    "day_of_year": "94"
+  },
+  {
+    "time_since_startup": 901.1527,
+    "time_since_task_start": 8.925232,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 901.230347,
+    "time_since_task_start": 9.002869,
+    "date": "day: 27 month: 3 2025",
+    "day_of_year": "86"
+  },
+  {
+    "time_since_startup": 901.3086,
+    "time_since_task_start": 9.081116,
+    "date": "day: 25 month: 3 2025",
+    "day_of_year": "84"
+  },
+  {
+    "time_since_startup": 901.3864,
+    "time_since_task_start": 9.158936,
+    "date": "day: 23 month: 3 2025",
+    "day_of_year": "82"
+  },
+  {
+    "time_since_startup": 901.464539,
+    "time_since_task_start": 9.237061,
+    "date": "day: 22 month: 3 2025",
+    "day_of_year": "81"
+  },
+  {
+    "time_since_startup": 901.5426,
+    "time_since_task_start": 9.31512451,
+    "date": "day: 19 month: 3 2025",
+    "day_of_year": "78"
+  },
+  {
+    "time_since_startup": 901.6213,
+    "time_since_task_start": 9.393799,
+    "date": "day: 15 month: 3 2025",
+    "day_of_year": "74"
+  },
+  {
+    "time_since_startup": 901.6995,
+    "time_since_task_start": 9.472046,
+    "date": "day: 14 month: 3 2025",
+    "day_of_year": "73"
+  },
+  {
+    "time_since_startup": 901.777466,
+    "time_since_task_start": 9.549988,
+    "date": "day: 13 month: 3 2025",
+    "day_of_year": "72"
+  },
+  {
+    "time_since_startup": 901.855652,
+    "time_since_task_start": 9.628174,
+    "date": "day: 13 month: 3 2025",
+    "day_of_year": "72"
+  },
+  {
+    "time_since_startup": 901.9336,
+    "time_since_task_start": 9.706116,
+    "date": "day: 12 month: 3 2025",
+    "day_of_year": "71"
+  },
+  {
+    "time_since_startup": 902.0123,
+    "time_since_task_start": 9.784851,
+    "date": "day: 11 month: 3 2025",
+    "day_of_year": "70"
+  },
+  {
+    "time_since_startup": 902.090332,
+    "time_since_task_start": 9.862854,
+    "date": "day: 10 month: 3 2025",
+    "day_of_year": "69"
+  },
+  {
+    "time_since_startup": 902.1683,
+    "time_since_task_start": 9.940796,
+    "date": "day: 9 month: 3 2025",
+    "day_of_year": "68"
+  },
+  {
+    "time_since_startup": 902.2464,
+    "time_since_task_start": 10.0189209,
+    "date": "day: 9 month: 3 2025",
+    "day_of_year": "68"
+  },
+  {
+    "time_since_startup": 902.324646,
+    "time_since_task_start": 10.097168,
+    "date": "day: 9 month: 3 2025",
+    "day_of_year": "68"
+  },
+  {
+    "time_since_startup": 902.4041,
+    "time_since_task_start": 10.1766357,
+    "date": "day: 9 month: 3 2025",
+    "day_of_year": "68"
+  },
+  {
+    "time_since_startup": 902.6845,
+    "time_since_task_start": 10.4570313,
+    "date": "day: 8 month: 3 2025",
+    "day_of_year": "67"
+  },
+  {
+    "time_since_startup": 903.173035,
+    "time_since_task_start": 10.9455566,
+    "date": "day: 9 month: 3 2025",
+    "day_of_year": "68"
+  },
+  {
+    "time_since_startup": 903.538635,
+    "time_since_task_start": 11.3111572,
+    "date": "day: 9 month: 3 2025",
+    "day_of_year": "68"
+  },
+  {
+    "time_since_startup": 903.6359,
+    "time_since_task_start": 11.4084473,
+    "date": "day: 8 month: 3 2025",
+    "day_of_year": "67"
+  },
+  {
+    "time_since_startup": 903.7476,
+    "time_since_task_start": 11.5201416,
+    "date": "day: 8 month: 3 2025",
+    "day_of_year": "67"
+  },
+  {
+    "time_since_startup": 903.936035,
+    "time_since_task_start": 11.7085571,
+    "date": "day: 8 month: 3 2025",
+    "day_of_year": "67"
+  },
+  {
+    "time_since_startup": 904.302246,
+    "time_since_task_start": 12.0747681,
+    "date": "day: 8 month: 3 2025",
+    "day_of_year": "67"
+  },
+  {
+    "time_since_startup": 905.0578,
+    "time_since_task_start": 12.8303223,
+    "date": "day: 8 month: 3 2025",
+    "day_of_year": "67"
+  },
+  {
+    "time_since_startup": 905.1509,
+    "time_since_task_start": 12.9234009,
+    "date": "day: 9 month: 3 2025",
+    "day_of_year": "68"
+  },
+  {
+    "time_since_startup": 905.2293,
+    "time_since_task_start": 13.0018311,
+    "date": "day: 9 month: 3 2025",
+    "day_of_year": "68"
+  },
+  {
+    "time_since_startup": 905.3074,
+    "time_since_task_start": 13.079895,
+    "date": "day: 10 month: 3 2025",
+    "day_of_year": "69"
+  },
+  {
+    "time_since_startup": 905.385132,
+    "time_since_task_start": 13.1576538,
+    "date": "day: 11 month: 3 2025",
+    "day_of_year": "70"
+  },
+  {
+    "time_since_startup": 905.4631,
+    "time_since_task_start": 13.2355957,
+    "date": "day: 12 month: 3 2025",
+    "day_of_year": "71"
+  },
+  {
+    "time_since_startup": 905.542358,
+    "time_since_task_start": 13.31488,
+    "date": "day: 14 month: 3 2025",
+    "day_of_year": "73"
+  },
+  {
+    "time_since_startup": 905.622131,
+    "time_since_task_start": 13.3946533,
+    "date": "day: 15 month: 3 2025",
+    "day_of_year": "74"
+  },
+  {
+    "time_since_startup": 905.7025,
+    "time_since_task_start": 13.4750366,
+    "date": "day: 16 month: 3 2025",
+    "day_of_year": "75"
+  },
+  {
+    "time_since_startup": 905.7808,
+    "time_since_task_start": 13.5533447,
+    "date": "day: 17 month: 3 2025",
+    "day_of_year": "76"
+  },
+  {
+    "time_since_startup": 905.8596,
+    "time_since_task_start": 13.6321411,
+    "date": "day: 18 month: 3 2025",
+    "day_of_year": "77"
+  },
+  {
+    "time_since_startup": 905.9388,
+    "time_since_task_start": 13.7113037,
+    "date": "day: 18 month: 3 2025",
+    "day_of_year": "77"
+  },
+  {
+    "time_since_startup": 906.0355,
+    "time_since_task_start": 13.8080444,
+    "date": "day: 18 month: 3 2025",
+    "day_of_year": "77"
+  },
+  {
+    "time_since_startup": 906.1531,
+    "time_since_task_start": 13.9255981,
+    "date": "day: 18 month: 3 2025",
+    "day_of_year": "77"
+  },
+  {
+    "time_since_startup": 910.130066,
+    "time_since_task_start": 17.9025879,
+    "date": "day: 18 month: 3 2025",
+    "day_of_year": "77"
+  },
+  {
+    "time_since_startup": 910.2127,
+    "time_since_task_start": 17.98523,
+    "date": "day: 5 month: 4 2025",
+    "day_of_year": "95"
+  },
+  {
+    "time_since_startup": 910.295166,
+    "time_since_task_start": 18.067688,
+    "date": "day: 7 month: 4 2025",
+    "day_of_year": "97"
+  },
+  {
+    "time_since_startup": 910.3752,
+    "time_since_task_start": 18.1477051,
+    "date": "day: 10 month: 4 2025",
+    "day_of_year": "100"
+  },
+  {
+    "time_since_startup": 910.453857,
+    "time_since_task_start": 18.22638,
+    "date": "day: 13 month: 4 2025",
+    "day_of_year": "103"
+  },
+  {
+    "time_since_startup": 910.533264,
+    "time_since_task_start": 18.3057861,
+    "date": "day: 15 month: 4 2025",
+    "day_of_year": "105"
+  },
+  {
+    "time_since_startup": 910.6123,
+    "time_since_task_start": 18.3848267,
+    "date": "day: 16 month: 4 2025",
+    "day_of_year": "106"
+  },
+  {
+    "time_since_startup": 910.6918,
+    "time_since_task_start": 18.4642944,
+    "date": "day: 16 month: 4 2025",
+    "day_of_year": "106"
+  },
+  {
+    "time_since_startup": 910.770935,
+    "time_since_task_start": 18.543457,
+    "date": "day: 16 month: 4 2025",
+    "day_of_year": "106"
+  },
+  {
+    "time_since_startup": 910.850647,
+    "time_since_task_start": 18.6231689,
+    "date": "day: 16 month: 4 2025",
+    "day_of_year": "106"
+  },
+  {
+    "time_since_startup": 910.9295,
+    "time_since_task_start": 18.7020264,
+    "date": "day: 13 month: 4 2025",
+    "day_of_year": "103"
+  },
+  {
+    "time_since_startup": 911.0091,
+    "time_since_task_start": 18.7816162,
+    "date": "day: 12 month: 4 2025",
+    "day_of_year": "102"
+  },
+  {
+    "time_since_startup": 911.08844,
+    "time_since_task_start": 18.8609619,
+    "date": "day: 10 month: 4 2025",
+    "day_of_year": "100"
+  },
+  {
+    "time_since_startup": 911.168,
+    "time_since_task_start": 18.9405518,
+    "date": "day: 10 month: 4 2025",
+    "day_of_year": "100"
+  },
+  {
+    "time_since_startup": 911.248535,
+    "time_since_task_start": 19.0210571,
+    "date": "day: 9 month: 4 2025",
+    "day_of_year": "99"
+  },
+  {
+    "time_since_startup": 911.3276,
+    "time_since_task_start": 19.1000977,
+    "date": "day: 8 month: 4 2025",
+    "day_of_year": "98"
+  },
+  {
+    "time_since_startup": 911.4085,
+    "time_since_task_start": 19.18103,
+    "date": "day: 8 month: 4 2025",
+    "day_of_year": "98"
+  },
+  {
+    "time_since_startup": 911.4885,
+    "time_since_task_start": 19.2610474,
+    "date": "day: 7 month: 4 2025",
+    "day_of_year": "97"
+  },
+  {
+    "time_since_startup": 911.568359,
+    "time_since_task_start": 19.3408813,
+    "date": "day: 7 month: 4 2025",
+    "day_of_year": "97"
+  },
+  {
+    "time_since_startup": 911.6475,
+    "time_since_task_start": 19.4200439,
+    "date": "day: 6 month: 4 2025",
+    "day_of_year": "96"
+  },
+  {
+    "time_since_startup": 911.7268,
+    "time_since_task_start": 19.4993286,
+    "date": "day: 4 month: 4 2025",
+    "day_of_year": "94"
+  },
+  {
+    "time_since_startup": 911.806152,
+    "time_since_task_start": 19.5786743,
+    "date": "day: 3 month: 4 2025",
+    "day_of_year": "93"
+  },
+  {
+    "time_since_startup": 911.8858,
+    "time_since_task_start": 19.6583252,
+    "date": "day: 2 month: 4 2025",
+    "day_of_year": "92"
+  },
+  {
+    "time_since_startup": 911.965332,
+    "time_since_task_start": 19.737854,
+    "date": "day: 1 month: 4 2025",
+    "day_of_year": "91"
+  },
+  {
+    "time_since_startup": 912.045654,
+    "time_since_task_start": 19.8181763,
+    "date": "day: 1 month: 4 2025",
+    "day_of_year": "91"
+  },
+  {
+    "time_since_startup": 912.125061,
+    "time_since_task_start": 19.897583,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 912.204346,
+    "time_since_task_start": 19.9768677,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 912.283142,
+    "time_since_task_start": 20.0556641,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 912.362854,
+    "time_since_task_start": 20.135376,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 912.442261,
+    "time_since_task_start": 20.2147827,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 912.5229,
+    "time_since_task_start": 20.29541,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 916.5067,
+    "time_since_task_start": 24.2792358,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 918.516541,
+    "time_since_task_start": 26.2890625,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 919.2184,
+    "time_since_task_start": 26.9909058,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 919.3333,
+    "time_since_task_start": 27.105835,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 919.43335,
+    "time_since_task_start": 27.2058716,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 919.6602,
+    "time_since_task_start": 27.43274,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 920.343567,
+    "time_since_task_start": 28.1160889,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 922.836731,
+    "time_since_task_start": 30.6092529,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 923.6593,
+    "time_since_task_start": 31.4318237,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 924.454,
+    "time_since_task_start": 32.2265,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 925.974731,
+    "time_since_task_start": 33.7472534,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 927.8661,
+    "time_since_task_start": 35.63861,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 928.7072,
+    "time_since_task_start": 36.4797363,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 928.855957,
+    "time_since_task_start": 36.62848,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 929.733337,
+    "time_since_task_start": 37.50586,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 930.6446,
+    "time_since_task_start": 38.4171143,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 931.0229,
+    "time_since_task_start": 38.79541,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 931.2502,
+    "time_since_task_start": 39.0227051,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 931.402344,
+    "time_since_task_start": 39.1748657,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 938.1033,
+    "time_since_task_start": 45.8757935,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 938.369,
+    "time_since_task_start": 46.14154,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 943.5475,
+    "time_since_task_start": 51.3200073,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 943.938965,
+    "time_since_task_start": 51.7114868,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 944.289856,
+    "time_since_task_start": 52.0623779,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 945.119751,
+    "time_since_task_start": 52.8922729,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 945.217651,
+    "time_since_task_start": 52.9901733,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 945.773438,
+    "time_since_task_start": 53.54596,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 946.0594,
+    "time_since_task_start": 53.83191,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 946.639,
+    "time_since_task_start": 54.4115,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 949.351868,
+    "time_since_task_start": 57.12439,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 950.5849,
+    "time_since_task_start": 58.35742,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 952.4176,
+    "time_since_task_start": 60.1901245,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 952.9383,
+    "time_since_task_start": 60.7108154,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 953.807251,
+    "time_since_task_start": 61.5797729,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 954.983643,
+    "time_since_task_start": 62.7561646,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 956.839355,
+    "time_since_task_start": 64.61188,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 958.1598,
+    "time_since_task_start": 65.93231,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 959.007446,
+    "time_since_task_start": 66.77997,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 959.117249,
+    "time_since_task_start": 66.88977,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 959.6493,
+    "time_since_task_start": 67.421814,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 960.8854,
+    "time_since_task_start": 68.6579,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 963.7861,
+    "time_since_task_start": 71.55859,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 963.9011,
+    "time_since_task_start": 71.673645,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 964.250854,
+    "time_since_task_start": 72.02338,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 967.188354,
+    "time_since_task_start": 74.96088,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 969.3142,
+    "time_since_task_start": 77.08673,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 969.867249,
+    "time_since_task_start": 77.63977,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 970.201,
+    "time_since_task_start": 77.97351,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 970.559631,
+    "time_since_task_start": 78.33215,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 971.9887,
+    "time_since_task_start": 79.76123,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 973.3502,
+    "time_since_task_start": 81.12274,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 973.5082,
+    "time_since_task_start": 81.2807,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 973.5904,
+    "time_since_task_start": 81.362915,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 975.1983,
+    "time_since_task_start": 82.9708252,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 975.4456,
+    "time_since_task_start": 83.21814,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 975.863831,
+    "time_since_task_start": 83.63635,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 976.394,
+    "time_since_task_start": 84.1665039,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 977.669067,
+    "time_since_task_start": 85.44159,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 977.9177,
+    "time_since_task_start": 85.69025,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 980.567261,
+    "time_since_task_start": 88.33978,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 982.0405,
+    "time_since_task_start": 89.81305,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 983.599,
+    "time_since_task_start": 91.37152,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 983.913147,
+    "time_since_task_start": 91.68567,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 984.614136,
+    "time_since_task_start": 92.38666,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 987.6635,
+    "time_since_task_start": 95.4360352,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 992.3703,
+    "time_since_task_start": 100.142822,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 992.5655,
+    "time_since_task_start": 100.338013,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 992.730164,
+    "time_since_task_start": 100.502686,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 993.1857,
+    "time_since_task_start": 100.958252,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 997.084534,
+    "time_since_task_start": 104.857056,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 998.404236,
+    "time_since_task_start": 106.176758,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1000.47351,
+    "time_since_task_start": 108.246033,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1001.066,
+    "time_since_task_start": 108.8385,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1001.67676,
+    "time_since_task_start": 109.44928,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1001.818,
+    "time_since_task_start": 109.590515,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1002.7995,
+    "time_since_task_start": 110.572021,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1005.486,
+    "time_since_task_start": 113.258545,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1006.591,
+    "time_since_task_start": 114.363525,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1008.80164,
+    "time_since_task_start": 116.574158,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1009.85162,
+    "time_since_task_start": 117.624146,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1009.95142,
+    "time_since_task_start": 117.723938,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1010.39032,
+    "time_since_task_start": 118.162842,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1010.95221,
+    "time_since_task_start": 118.724731,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1014.18451,
+    "time_since_task_start": 121.957031,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1017.05304,
+    "time_since_task_start": 124.825562,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1017.75629,
+    "time_since_task_start": 125.528809,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1022.88763,
+    "time_since_task_start": 130.660156,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1023.23914,
+    "time_since_task_start": 131.011658,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1024.607,
+    "time_since_task_start": 132.379578,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1024.96765,
+    "time_since_task_start": 132.740173,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1025.23633,
+    "time_since_task_start": 133.00885,
+    "date": "day: 29 month: 3 2025",
+    "day_of_year": "88"
+  },
+  {
+    "time_since_startup": 1025.3175,
+    "time_since_task_start": 133.090027,
+    "date": "day: 29 month: 3 2025",
+    "day_of_year": "88"
+  },
+  {
+    "time_since_startup": 1025.39966,
+    "time_since_task_start": 133.17218,
+    "date": "day: 29 month: 3 2025",
+    "day_of_year": "88"
+  },
+  {
+    "time_since_startup": 1025.48181,
+    "time_since_task_start": 133.254333,
+    "date": "day: 28 month: 3 2025",
+    "day_of_year": "87"
+  },
+  {
+    "time_since_startup": 1025.56653,
+    "time_since_task_start": 133.33905,
+    "date": "day: 29 month: 3 2025",
+    "day_of_year": "88"
+  },
+  {
+    "time_since_startup": 1025.64783,
+    "time_since_task_start": 133.420349,
+    "date": "day: 29 month: 3 2025",
+    "day_of_year": "88"
+  },
+  {
+    "time_since_startup": 1025.73267,
+    "time_since_task_start": 133.505188,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1025.81653,
+    "time_since_task_start": 133.58905,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 1025.96375,
+    "time_since_task_start": 133.736267,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 1026.04626,
+    "time_since_task_start": 133.818787,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 1026.571,
+    "time_since_task_start": 134.343567,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 1026.97559,
+    "time_since_task_start": 134.748108,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 1027.16882,
+    "time_since_task_start": 134.941345,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 1027.67432,
+    "time_since_task_start": 135.446838,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 1027.82043,
+    "time_since_task_start": 135.592957,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 1027.91785,
+    "time_since_task_start": 135.690369,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1027.99939,
+    "time_since_task_start": 135.771912,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1028.081,
+    "time_since_task_start": 135.853577,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1028.16748,
+    "time_since_task_start": 135.94,
+    "date": "day: 29 month: 3 2025",
+    "day_of_year": "88"
+  },
+  {
+    "time_since_startup": 1028.60974,
+    "time_since_task_start": 136.382263,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1028.701,
+    "time_since_task_start": 136.473572,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1028.80115,
+    "time_since_task_start": 136.573669,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1028.953,
+    "time_since_task_start": 136.725525,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1029.19641,
+    "time_since_task_start": 136.968933,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1029.57043,
+    "time_since_task_start": 137.342957,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1030.10413,
+    "time_since_task_start": 137.876648,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1030.25574,
+    "time_since_task_start": 138.028259,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1030.3512,
+    "time_since_task_start": 138.123718,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1030.48474,
+    "time_since_task_start": 138.257263,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1031.4342,
+    "time_since_task_start": 139.206726,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1033.55334,
+    "time_since_task_start": 141.325867,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1035.42578,
+    "time_since_task_start": 143.1983,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1035.94714,
+    "time_since_task_start": 143.719666,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1036.13513,
+    "time_since_task_start": 143.907654,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1036.32568,
+    "time_since_task_start": 144.0982,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1038.524,
+    "time_since_task_start": 146.29657,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1040.02185,
+    "time_since_task_start": 147.794373,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1040.21619,
+    "time_since_task_start": 147.988708,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1040.72229,
+    "time_since_task_start": 148.494812,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1040.92444,
+    "time_since_task_start": 148.69696,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1041.18115,
+    "time_since_task_start": 148.953674,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1041.93921,
+    "time_since_task_start": 149.711731,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1043.55664,
+    "time_since_task_start": 151.329163,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1045.27759,
+    "time_since_task_start": 153.05011,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1045.87842,
+    "time_since_task_start": 153.65094,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1046.47693,
+    "time_since_task_start": 154.249451,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1048.21814,
+    "time_since_task_start": 155.990662,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1048.61914,
+    "time_since_task_start": 156.391663,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1051.48718,
+    "time_since_task_start": 159.2597,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1052.76318,
+    "time_since_task_start": 160.5357,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1053.53662,
+    "time_since_task_start": 161.309143,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1053.91138,
+    "time_since_task_start": 161.6839,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1054.05,
+    "time_since_task_start": 161.822571,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1055.75244,
+    "time_since_task_start": 163.524963,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1056.03479,
+    "time_since_task_start": 163.807312,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1057.70264,
+    "time_since_task_start": 165.475159,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1060.29675,
+    "time_since_task_start": 168.069275,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1060.7041,
+    "time_since_task_start": 168.476624,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1061.17175,
+    "time_since_task_start": 168.944275,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1061.68311,
+    "time_since_task_start": 169.455627,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1062.55493,
+    "time_since_task_start": 170.327454,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1062.7699,
+    "time_since_task_start": 170.542419,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1063.22754,
+    "time_since_task_start": 171.000061,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1064.51917,
+    "time_since_task_start": 172.291687,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1066.50513,
+    "time_since_task_start": 174.277649,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1066.82239,
+    "time_since_task_start": 174.59491,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1068.38477,
+    "time_since_task_start": 176.157288,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1068.48438,
+    "time_since_task_start": 176.2569,
+    "date": "day: 29 month: 3 2025",
+    "day_of_year": "88"
+  },
+  {
+    "time_since_startup": 1068.56616,
+    "time_since_task_start": 176.338684,
+    "date": "day: 29 month: 3 2025",
+    "day_of_year": "88"
+  },
+  {
+    "time_since_startup": 1068.64844,
+    "time_since_task_start": 176.420959,
+    "date": "day: 26 month: 3 2025",
+    "day_of_year": "85"
+  },
+  {
+    "time_since_startup": 1068.83887,
+    "time_since_task_start": 176.611389,
+    "date": "day: 25 month: 3 2025",
+    "day_of_year": "84"
+  },
+  {
+    "time_since_startup": 1069.03137,
+    "time_since_task_start": 176.8039,
+    "date": "day: 22 month: 3 2025",
+    "day_of_year": "81"
+  },
+  {
+    "time_since_startup": 1069.22144,
+    "time_since_task_start": 176.993958,
+    "date": "day: 17 month: 3 2025",
+    "day_of_year": "76"
+  },
+  {
+    "time_since_startup": 1069.41016,
+    "time_since_task_start": 177.182678,
+    "date": "day: 12 month: 3 2025",
+    "day_of_year": "71"
+  },
+  {
+    "time_since_startup": 1069.49255,
+    "time_since_task_start": 177.265076,
+    "date": "day: 4 month: 3 2025",
+    "day_of_year": "63"
+  },
+  {
+    "time_since_startup": 1069.67981,
+    "time_since_task_start": 177.452332,
+    "date": "day: 2 month: 3 2025",
+    "day_of_year": "61"
+  },
+  {
+    "time_since_startup": 1069.86719,
+    "time_since_task_start": 177.639709,
+    "date": "day: 1 month: 3 2025",
+    "day_of_year": "60"
+  },
+  {
+    "time_since_startup": 1069.95,
+    "time_since_task_start": 177.722473,
+    "date": "day: 1 month: 3 2025",
+    "day_of_year": "60"
+  },
+  {
+    "time_since_startup": 1070.51929,
+    "time_since_task_start": 178.291809,
+    "date": "day: 1 month: 3 2025",
+    "day_of_year": "60"
+  },
+  {
+    "time_since_startup": 1070.96924,
+    "time_since_task_start": 178.74176,
+    "date": "day: 1 month: 3 2025",
+    "day_of_year": "60"
+  },
+  {
+    "time_since_startup": 1071.26782,
+    "time_since_task_start": 179.040344,
+    "date": "day: 1 month: 3 2025",
+    "day_of_year": "60"
+  },
+  {
+    "time_since_startup": 1071.496,
+    "time_since_task_start": 179.2685,
+    "date": "day: 1 month: 3 2025",
+    "day_of_year": "60"
+  },
+  {
+    "time_since_startup": 1073.33154,
+    "time_since_task_start": 181.104065,
+    "date": "day: 1 month: 3 2025",
+    "day_of_year": "60"
+  },
+  {
+    "time_since_startup": 1073.60059,
+    "time_since_task_start": 181.373108,
+    "date": "day: 1 month: 3 2025",
+    "day_of_year": "60"
+  },
+  {
+    "time_since_startup": 1073.73547,
+    "time_since_task_start": 181.508,
+    "date": "day: 1 month: 3 2025",
+    "day_of_year": "60"
+  },
+  {
+    "time_since_startup": 1073.83459,
+    "time_since_task_start": 181.607117,
+    "date": "day: 1 month: 3 2025",
+    "day_of_year": "60"
+  },
+  {
+    "time_since_startup": 1074.26367,
+    "time_since_task_start": 182.0362,
+    "date": "day: 1 month: 3 2025",
+    "day_of_year": "60"
+  },
+  {
+    "time_since_startup": 1074.75244,
+    "time_since_task_start": 182.524963,
+    "date": "day: 2 month: 3 2025",
+    "day_of_year": "61"
+  },
+  {
+    "time_since_startup": 1074.85315,
+    "time_since_task_start": 182.625671,
+    "date": "day: 3 month: 3 2025",
+    "day_of_year": "62"
+  },
+  {
+    "time_since_startup": 1074.96362,
+    "time_since_task_start": 182.736145,
+    "date": "day: 3 month: 3 2025",
+    "day_of_year": "62"
+  },
+  {
+    "time_since_startup": 1075.04419,
+    "time_since_task_start": 182.816711,
+    "date": "day: 3 month: 3 2025",
+    "day_of_year": "62"
+  },
+  {
+    "time_since_startup": 1075.12463,
+    "time_since_task_start": 182.897156,
+    "date": "day: 4 month: 3 2025",
+    "day_of_year": "63"
+  },
+  {
+    "time_since_startup": 1075.2052,
+    "time_since_task_start": 182.977722,
+    "date": "day: 5 month: 3 2025",
+    "day_of_year": "64"
+  },
+  {
+    "time_since_startup": 1075.29187,
+    "time_since_task_start": 183.064392,
+    "date": "day: 7 month: 3 2025",
+    "day_of_year": "66"
+  },
+  {
+    "time_since_startup": 1075.47815,
+    "time_since_task_start": 183.250671,
+    "date": "day: 8 month: 3 2025",
+    "day_of_year": "67"
+  },
+  {
+    "time_since_startup": 1075.66614,
+    "time_since_task_start": 183.43866,
+    "date": "day: 11 month: 3 2025",
+    "day_of_year": "70"
+  },
+  {
+    "time_since_startup": 1075.74768,
+    "time_since_task_start": 183.5202,
+    "date": "day: 16 month: 3 2025",
+    "day_of_year": "75"
+  },
+  {
+    "time_since_startup": 1075.93616,
+    "time_since_task_start": 183.708679,
+    "date": "day: 18 month: 3 2025",
+    "day_of_year": "77"
+  },
+  {
+    "time_since_startup": 1076.01941,
+    "time_since_task_start": 183.791931,
+    "date": "day: 20 month: 3 2025",
+    "day_of_year": "79"
+  },
+  {
+    "time_since_startup": 1076.20776,
+    "time_since_task_start": 183.980286,
+    "date": "day: 20 month: 3 2025",
+    "day_of_year": "79"
+  },
+  {
+    "time_since_startup": 1076.28955,
+    "time_since_task_start": 184.062073,
+    "date": "day: 20 month: 3 2025",
+    "day_of_year": "79"
+  },
+  {
+    "time_since_startup": 1076.37048,
+    "time_since_task_start": 184.143,
+    "date": "day: 20 month: 3 2025",
+    "day_of_year": "79"
+  },
+  {
+    "time_since_startup": 1076.46716,
+    "time_since_task_start": 184.239685,
+    "date": "day: 20 month: 3 2025",
+    "day_of_year": "79"
+  },
+  {
+    "time_since_startup": 1080.58655,
+    "time_since_task_start": 188.35907,
+    "date": "day: 20 month: 3 2025",
+    "day_of_year": "79"
+  },
+  {
+    "time_since_startup": 1080.83972,
+    "time_since_task_start": 188.612244,
+    "date": "day: 20 month: 3 2025",
+    "day_of_year": "79"
+  },
+  {
+    "time_since_startup": 1081.0874,
+    "time_since_task_start": 188.859924,
+    "date": "day: 20 month: 3 2025",
+    "day_of_year": "79"
+  },
+  {
+    "time_since_startup": 1081.61841,
+    "time_since_task_start": 189.39093,
+    "date": "day: 21 month: 3 2025",
+    "day_of_year": "80"
+  },
+  {
+    "time_since_startup": 1081.71912,
+    "time_since_task_start": 189.491638,
+    "date": "day: 22 month: 3 2025",
+    "day_of_year": "81"
+  },
+  {
+    "time_since_startup": 1081.79956,
+    "time_since_task_start": 189.572083,
+    "date": "day: 23 month: 3 2025",
+    "day_of_year": "82"
+  },
+  {
+    "time_since_startup": 1081.8811,
+    "time_since_task_start": 189.653625,
+    "date": "day: 23 month: 3 2025",
+    "day_of_year": "82"
+  },
+  {
+    "time_since_startup": 1081.96375,
+    "time_since_task_start": 189.736267,
+    "date": "day: 25 month: 3 2025",
+    "day_of_year": "84"
+  },
+  {
+    "time_since_startup": 1082.046,
+    "time_since_task_start": 189.818542,
+    "date": "day: 26 month: 3 2025",
+    "day_of_year": "85"
+  },
+  {
+    "time_since_startup": 1082.234,
+    "time_since_task_start": 190.006531,
+    "date": "day: 26 month: 3 2025",
+    "day_of_year": "85"
+  },
+  {
+    "time_since_startup": 1082.42493,
+    "time_since_task_start": 190.197449,
+    "date": "day: 27 month: 3 2025",
+    "day_of_year": "86"
+  },
+  {
+    "time_since_startup": 1082.50928,
+    "time_since_task_start": 190.2818,
+    "date": "day: 29 month: 3 2025",
+    "day_of_year": "88"
+  },
+  {
+    "time_since_startup": 1082.69922,
+    "time_since_task_start": 190.471741,
+    "date": "day: 29 month: 3 2025",
+    "day_of_year": "88"
+  },
+  {
+    "time_since_startup": 1082.88855,
+    "time_since_task_start": 190.661072,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1082.97241,
+    "time_since_task_start": 190.744934,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1083.0542,
+    "time_since_task_start": 190.826721,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 1083.13513,
+    "time_since_task_start": 190.907654,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 1083.325,
+    "time_since_task_start": 191.097473,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 1083.51526,
+    "time_since_task_start": 191.287781,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 1083.7041,
+    "time_since_task_start": 191.476624,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 1083.89966,
+    "time_since_task_start": 191.67218,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 1083.98364,
+    "time_since_task_start": 191.756165,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 1084.28369,
+    "time_since_task_start": 192.056213,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1084.46985,
+    "time_since_task_start": 192.242371,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1084.77112,
+    "time_since_task_start": 192.54364,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1084.98547,
+    "time_since_task_start": 192.758,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1085.288,
+    "time_since_task_start": 193.060486,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1085.41687,
+    "time_since_task_start": 193.189392,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1085.64429,
+    "time_since_task_start": 193.416809,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1085.869,
+    "time_since_task_start": 193.641541,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1086.15149,
+    "time_since_task_start": 193.924011,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1086.56824,
+    "time_since_task_start": 194.340759,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1086.91772,
+    "time_since_task_start": 194.690247,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1087.01855,
+    "time_since_task_start": 194.791077,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1087.11743,
+    "time_since_task_start": 194.889954,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1087.3197,
+    "time_since_task_start": 195.092224,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1087.97375,
+    "time_since_task_start": 195.746277,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1088.70581,
+    "time_since_task_start": 196.478333,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1089.21069,
+    "time_since_task_start": 196.983215,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1089.51074,
+    "time_since_task_start": 197.283264,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1090.22119,
+    "time_since_task_start": 197.993713,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1090.368,
+    "time_since_task_start": 198.140564,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1091.21,
+    "time_since_task_start": 198.982483,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1091.3009,
+    "time_since_task_start": 199.073425,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1094.36731,
+    "time_since_task_start": 202.139832,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1094.71729,
+    "time_since_task_start": 202.4898,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1096.85217,
+    "time_since_task_start": 204.6247,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1099.30359,
+    "time_since_task_start": 207.076111,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1104.70007,
+    "time_since_task_start": 212.4726,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1105.60083,
+    "time_since_task_start": 213.373352,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1105.7196,
+    "time_since_task_start": 213.492126,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1107.93835,
+    "time_since_task_start": 215.710876,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1108.12952,
+    "time_since_task_start": 215.902039,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1108.95215,
+    "time_since_task_start": 216.72467,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1110.20007,
+    "time_since_task_start": 217.9726,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1110.69324,
+    "time_since_task_start": 218.465759,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1111.25244,
+    "time_since_task_start": 219.024963,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1111.47815,
+    "time_since_task_start": 219.250671,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1112.7207,
+    "time_since_task_start": 220.493225,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1113.83423,
+    "time_since_task_start": 221.60675,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1114.136,
+    "time_since_task_start": 221.908508,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1114.472,
+    "time_since_task_start": 222.244568,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1115.6958,
+    "time_since_task_start": 223.468323,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1116.26721,
+    "time_since_task_start": 224.039734,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1117.59387,
+    "time_since_task_start": 225.3664,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1119.77246,
+    "time_since_task_start": 227.544983,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1120.654,
+    "time_since_task_start": 228.426575,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1121.95276,
+    "time_since_task_start": 229.725281,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1123.30981,
+    "time_since_task_start": 231.082336,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1124.522,
+    "time_since_task_start": 232.2945,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1124.67236,
+    "time_since_task_start": 232.444885,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1125.691,
+    "time_since_task_start": 233.463562,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1126.10657,
+    "time_since_task_start": 233.879089,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1126.261,
+    "time_since_task_start": 234.033508,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1127.15234,
+    "time_since_task_start": 234.924866,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1127.652,
+    "time_since_task_start": 235.4245,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1129.2395,
+    "time_since_task_start": 237.012024,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1129.47131,
+    "time_since_task_start": 237.243835,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1129.6178,
+    "time_since_task_start": 237.39032,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1130.92664,
+    "time_since_task_start": 238.699158,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1132.11707,
+    "time_since_task_start": 239.889587,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1132.25256,
+    "time_since_task_start": 240.025085,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1132.38733,
+    "time_since_task_start": 240.159851,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1132.65088,
+    "time_since_task_start": 240.4234,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1132.93848,
+    "time_since_task_start": 240.711,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1134.18359,
+    "time_since_task_start": 241.956116,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1134.77515,
+    "time_since_task_start": 242.547668,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1137.1427,
+    "time_since_task_start": 244.915222,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1139.38916,
+    "time_since_task_start": 247.161682,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1139.66968,
+    "time_since_task_start": 247.4422,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1140.13489,
+    "time_since_task_start": 247.90741,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1140.37622,
+    "time_since_task_start": 248.148743,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1141.95618,
+    "time_since_task_start": 249.7287,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1142.35034,
+    "time_since_task_start": 250.122864,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1143.52014,
+    "time_since_task_start": 251.292664,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1146.60449,
+    "time_since_task_start": 254.377014,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1146.70032,
+    "time_since_task_start": 254.472839,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1148.08691,
+    "time_since_task_start": 255.859436,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1148.62915,
+    "time_since_task_start": 256.401672,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1151.86426,
+    "time_since_task_start": 259.63678,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1152.52283,
+    "time_since_task_start": 260.295349,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1152.97229,
+    "time_since_task_start": 260.7448,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1153.25659,
+    "time_since_task_start": 261.0291,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1153.535,
+    "time_since_task_start": 261.307556,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1153.70837,
+    "time_since_task_start": 261.4809,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1154.66882,
+    "time_since_task_start": 262.441345,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1155.07507,
+    "time_since_task_start": 262.8476,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1157.793,
+    "time_since_task_start": 265.5655,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1159.37329,
+    "time_since_task_start": 267.1458,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1160.1543,
+    "time_since_task_start": 267.926819,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1160.46863,
+    "time_since_task_start": 268.24115,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1161.61243,
+    "time_since_task_start": 269.384949,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1161.751,
+    "time_since_task_start": 269.5235,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1162.56592,
+    "time_since_task_start": 270.33844,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1162.71729,
+    "time_since_task_start": 270.4898,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1164.79077,
+    "time_since_task_start": 272.5633,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1166.49377,
+    "time_since_task_start": 274.2663,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1167.043,
+    "time_since_task_start": 274.8155,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1167.18457,
+    "time_since_task_start": 274.9571,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1168.57642,
+    "time_since_task_start": 276.348938,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1171.512,
+    "time_since_task_start": 279.2845,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1171.6853,
+    "time_since_task_start": 279.457825,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1172.275,
+    "time_since_task_start": 280.047546,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1172.90894,
+    "time_since_task_start": 280.681458,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1174.0575,
+    "time_since_task_start": 281.830017,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1174.15125,
+    "time_since_task_start": 281.923767,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1174.804,
+    "time_since_task_start": 282.576477,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1176.18091,
+    "time_since_task_start": 283.95343,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1177.97729,
+    "time_since_task_start": 285.749817,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1178.50317,
+    "time_since_task_start": 286.2757,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1179.51172,
+    "time_since_task_start": 287.284241,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1179.60107,
+    "time_since_task_start": 287.3736,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1179.725,
+    "time_since_task_start": 287.4975,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1180.19,
+    "time_since_task_start": 287.962463,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1180.4574,
+    "time_since_task_start": 288.229919,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1181.44763,
+    "time_since_task_start": 289.220154,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1181.8042,
+    "time_since_task_start": 289.576721,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1182.00415,
+    "time_since_task_start": 289.776672,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1183.59534,
+    "time_since_task_start": 291.367859,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1184.57666,
+    "time_since_task_start": 292.349182,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1186.07813,
+    "time_since_task_start": 293.850647,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1186.29163,
+    "time_since_task_start": 294.064148,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1188.35974,
+    "time_since_task_start": 296.132263,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1188.743,
+    "time_since_task_start": 296.515564,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1189.27673,
+    "time_since_task_start": 297.049255,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1189.54309,
+    "time_since_task_start": 297.3156,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1190.51233,
+    "time_since_task_start": 298.284851,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1191.801,
+    "time_since_task_start": 299.573547,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1192.7002,
+    "time_since_task_start": 300.472717,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1193.69592,
+    "time_since_task_start": 301.468445,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1194.268,
+    "time_since_task_start": 302.040466,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1194.61841,
+    "time_since_task_start": 302.39093,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1195.03015,
+    "time_since_task_start": 302.802673,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1196.01819,
+    "time_since_task_start": 303.7907,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1197.41138,
+    "time_since_task_start": 305.1839,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1197.50024,
+    "time_since_task_start": 305.272766,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1198.88879,
+    "time_since_task_start": 306.661316,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1200.10291,
+    "time_since_task_start": 307.875427,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1200.41418,
+    "time_since_task_start": 308.1867,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1200.73486,
+    "time_since_task_start": 308.5074,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1201.033,
+    "time_since_task_start": 308.805481,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1201.14685,
+    "time_since_task_start": 308.919373,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1201.60767,
+    "time_since_task_start": 309.3802,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1201.71741,
+    "time_since_task_start": 309.489929,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1201.81726,
+    "time_since_task_start": 309.589783,
+    "date": "day: 31 month: 3 2025",
+    "day_of_year": "90"
+  },
+  {
+    "time_since_startup": 1201.97034,
+    "time_since_task_start": 309.742859,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1202.16919,
+    "time_since_task_start": 309.9417,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1203.20593,
+    "time_since_task_start": 310.978455,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1204.28491,
+    "time_since_task_start": 312.057434,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1204.79456,
+    "time_since_task_start": 312.567078,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1205.29309,
+    "time_since_task_start": 313.0656,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1205.58484,
+    "time_since_task_start": 313.357361,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1205.70215,
+    "time_since_task_start": 313.47467,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1205.92175,
+    "time_since_task_start": 313.694275,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1206.154,
+    "time_since_task_start": 313.926575,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1208.47461,
+    "time_since_task_start": 316.247131,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1210.00232,
+    "time_since_task_start": 317.774841,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1211.19507,
+    "time_since_task_start": 318.9676,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1211.70581,
+    "time_since_task_start": 319.478333,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1211.89465,
+    "time_since_task_start": 319.667175,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1212.50574,
+    "time_since_task_start": 320.278259,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1215.70154,
+    "time_since_task_start": 323.47406,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1216.07288,
+    "time_since_task_start": 323.8454,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1218.15479,
+    "time_since_task_start": 325.9273,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1220.18311,
+    "time_since_task_start": 327.955627,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1220.5011,
+    "time_since_task_start": 328.273621,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1221.13513,
+    "time_since_task_start": 328.907654,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1222.36377,
+    "time_since_task_start": 330.1363,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1223.18372,
+    "time_since_task_start": 330.956238,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1223.81873,
+    "time_since_task_start": 331.591248,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1224.51563,
+    "time_since_task_start": 332.288147,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1225.07324,
+    "time_since_task_start": 332.845764,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1226.01233,
+    "time_since_task_start": 333.784851,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1226.27991,
+    "time_since_task_start": 334.052429,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1226.36853,
+    "time_since_task_start": 334.141052,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1227.00769,
+    "time_since_task_start": 334.7802,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1228.00623,
+    "time_since_task_start": 335.778748,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1229.06909,
+    "time_since_task_start": 336.8416,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1230.83557,
+    "time_since_task_start": 338.6081,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1231.44177,
+    "time_since_task_start": 339.2143,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1231.65076,
+    "time_since_task_start": 339.423279,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1232.00671,
+    "time_since_task_start": 339.779236,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1232.214,
+    "time_since_task_start": 339.9865,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1232.45447,
+    "time_since_task_start": 340.227,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1233.31787,
+    "time_since_task_start": 341.0904,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1233.91663,
+    "time_since_task_start": 341.689148,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1234.01746,
+    "time_since_task_start": 341.789978,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1235.25769,
+    "time_since_task_start": 343.0302,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1235.54468,
+    "time_since_task_start": 343.3172,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1236.03064,
+    "time_since_task_start": 343.803162,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1236.50049,
+    "time_since_task_start": 344.273,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1237.77161,
+    "time_since_task_start": 345.544128,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1237.9635,
+    "time_since_task_start": 345.736023,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1239.47485,
+    "time_since_task_start": 347.247375,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1239.56775,
+    "time_since_task_start": 347.340271,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1241.40344,
+    "time_since_task_start": 349.175964,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1242.31763,
+    "time_since_task_start": 350.090149,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1243.01892,
+    "time_since_task_start": 350.791443,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1243.57166,
+    "time_since_task_start": 351.344177,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1243.70581,
+    "time_since_task_start": 351.478333,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1246.04089,
+    "time_since_task_start": 353.813416,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1246.35266,
+    "time_since_task_start": 354.125183,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1246.48291,
+    "time_since_task_start": 354.255432,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1246.67212,
+    "time_since_task_start": 354.444641,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1246.91528,
+    "time_since_task_start": 354.6878,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1248.46765,
+    "time_since_task_start": 356.240173,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1248.90369,
+    "time_since_task_start": 356.6762,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1249.70886,
+    "time_since_task_start": 357.481384,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1249.91992,
+    "time_since_task_start": 357.692444,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1251.12085,
+    "time_since_task_start": 358.893372,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1251.3363,
+    "time_since_task_start": 359.108826,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1252.03259,
+    "time_since_task_start": 359.8051,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1254.65649,
+    "time_since_task_start": 362.429016,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1255.56018,
+    "time_since_task_start": 363.3327,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1258.33862,
+    "time_since_task_start": 366.111145,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1258.53271,
+    "time_since_task_start": 366.305237,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1260.40173,
+    "time_since_task_start": 368.174255,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1261.22253,
+    "time_since_task_start": 368.995056,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1262.53381,
+    "time_since_task_start": 370.306335,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1262.65,
+    "time_since_task_start": 370.422546,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1263.58386,
+    "time_since_task_start": 371.356384,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1266.28552,
+    "time_since_task_start": 374.058044,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1267.59216,
+    "time_since_task_start": 375.3647,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1268.02234,
+    "time_since_task_start": 375.794861,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1268.82227,
+    "time_since_task_start": 376.5948,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1269.25525,
+    "time_since_task_start": 377.027771,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1269.469,
+    "time_since_task_start": 377.241516,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1269.70569,
+    "time_since_task_start": 377.4782,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1269.801,
+    "time_since_task_start": 377.573547,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1270.0531,
+    "time_since_task_start": 377.825623,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1272.93945,
+    "time_since_task_start": 380.711975,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1273.86267,
+    "time_since_task_start": 381.6352,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1276.11121,
+    "time_since_task_start": 383.883728,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1276.235,
+    "time_since_task_start": 384.0075,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1276.38977,
+    "time_since_task_start": 384.1623,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1276.90735,
+    "time_since_task_start": 384.679871,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1277.09509,
+    "time_since_task_start": 384.8676,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1277.46875,
+    "time_since_task_start": 385.241272,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1277.77148,
+    "time_since_task_start": 385.544,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1278.55432,
+    "time_since_task_start": 386.326843,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1279.18689,
+    "time_since_task_start": 386.9594,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1282.443,
+    "time_since_task_start": 390.2155,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1285.16125,
+    "time_since_task_start": 392.933777,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1285.26746,
+    "time_since_task_start": 393.039978,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1285.65308,
+    "time_since_task_start": 393.4256,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1287.08728,
+    "time_since_task_start": 394.8598,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1293.0437,
+    "time_since_task_start": 400.816223,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1293.59058,
+    "time_since_task_start": 401.3631,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1295.32227,
+    "time_since_task_start": 403.0948,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1295.58765,
+    "time_since_task_start": 403.360168,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1296.10608,
+    "time_since_task_start": 403.8786,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1297.14038,
+    "time_since_task_start": 404.9129,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1297.42151,
+    "time_since_task_start": 405.194031,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1297.64587,
+    "time_since_task_start": 405.4184,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1298.89148,
+    "time_since_task_start": 406.664,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1299.91724,
+    "time_since_task_start": 407.689758,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1300.11877,
+    "time_since_task_start": 407.8913,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1300.30225,
+    "time_since_task_start": 408.074768,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  },
+  {
+    "time_since_startup": 1302.50488,
+    "time_since_task_start": 410.2774,
+    "date": "day: 30 month: 3 2025",
+    "day_of_year": "89"
+  }
+]
